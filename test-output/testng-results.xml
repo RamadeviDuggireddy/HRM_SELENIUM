@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22736" started-at="2020-03-25T02:31:29Z" finished-at="2020-03-25T02:31:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22736" started-at="2020-03-25T02:31:29Z" finished-at="2020-03-25T02:31:51Z">
+      <class name="com.TestRunner.ExecutionWindowNew">
+        <test-method status="PASS" signature="Testexecution()[pri:0, instance:com.TestRunner.ExecutionWindowNew@5e5792a0]" name="Testexecution" duration-ms="22643" started-at="2020-03-25T02:31:29Z" finished-at="2020-03-25T02:31:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testexecution -->
+      </class> <!-- com.TestRunner.ExecutionWindowNew -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
